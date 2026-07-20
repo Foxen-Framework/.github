@@ -1,6 +1,6 @@
 # Foxen Framework - Next-Style Elysia Framework for Type-Safe API Development
 
-![Foxen framework dashboard with Elysia routes and TypeScript tooling](https://media.licdn.com/dms/image/v2/D5612AQGZtiAWJ5sMAw/article-cover_image-shrink_720_1280/B56Z8Y_p4VHYAQ-/0/1782830767965?e=2147483647&v=beta&t=okYK6rBrRbAmvvr-v-EkK5jMykr_jOiVCbBs9VhYkEw)
+![Foxen framework dashboard with Elysia routes and TypeScript tooling](https://cdn.prod.website-files.com/649468ae1a9bd28ebd0479a2/69cafb848c6f9106079772b2_Blueprint%20Image.png)
 
 ## Why Foxen Fits Modern API Work
 
